@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RomyWemer
+- I'm a Master Student in Communication Sciences and Ill be using GitHub for school projects
